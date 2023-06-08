@@ -18,7 +18,7 @@ const Messages = () => {
     };
   }, [data.chatId]);
 
-  console.log(messages)
+  console.log(messages, "gzregregh")
 
   return (
     <div className="messages">
